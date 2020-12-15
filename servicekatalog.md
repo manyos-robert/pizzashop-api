@@ -7,26 +7,26 @@ Folgende Struktur wäre denkbar:
 
 ```javascript
 [
-	{
-		"name": "Pizza Salami",
-		"description": "Frischer Pizzateig, Tomatensauce, frisch geriebener Käse, Salami",
-		"variants": [
-			{
-				"name": "Single",
-				"description": "33cm",
-				"price": 7.9
-			},
-			{
-				"name": "Double",
-				"description": "33cm",
-				"price": 11.5
-			},
-			{
-				"name": "Magnum",
-				"description": "33cm",
-				"price": 17.5
-			}
-		]
-	}
+  {
+    "name": "Pizza Salami",
+    "description": "Frischer Pizzateig, Tomatensauce, frisch geriebener Käse, Salami",
+    "variants": [
+      {
+        "name": "Single",
+        "description": "33cm",
+        "price": 7.9
+      },
+      {
+        "name": "Double",
+        "description": "33cm",
+        "price": 11.5
+      },
+      {
+        "name": "Magnum",
+        "description": "33cm",
+        "price": 17.5
+      }
+    ]
+  }
 ]
 ```
