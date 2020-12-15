@@ -7,7 +7,7 @@ This repository shall create the backend of a pizza shop as a shared javascript 
 
 Basic functionality the API needs to provide:
 
-## (Service Katalog) Get a list of available pizzas and their price
+## Get a list of available pizzas and their price (Service Katalog)
 
 For each entry we'll provide:
 
@@ -15,4 +15,20 @@ For each entry we'll provide:
 * Description
 * Pices/Sizes
 
-* 
+## Place an order
+
+As a customer I want to place an order for one more pizzas. For each pizza I'll want to specify the pizza, the quantity and any extras.
+
+## Get all orders
+
+As a shop owner I want to see all orders and their status.
+
+## Update order status
+
+As a shop owner I want to update the status of an order. Possible Values should be. 
+
+* New
+* In progress
+* In delivery
+* Completed
+
