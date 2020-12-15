@@ -7,12 +7,12 @@ This repository shall create the backend of a pizza shop as a shared javascript 
 
 Basic functionality the API needs to provide:
 
-* (Service Katalog) Get a list of available pizzas and their price
+## (Service Katalog) Get a list of available pizzas and their price
 
 For each entry we'll provide:
 
-** Name
-** Description
-** Pices/Sizes
+* Name
+* Description
+* Pices/Sizes
 
 * 
