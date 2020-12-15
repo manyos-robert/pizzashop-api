@@ -11,8 +11,8 @@ Basic functionality the API needs to provide:
 
 For each entry we'll provide:
 
-Name
-Description
-Pices/Sizes
+** Name
+** Description
+** Pices/Sizes
 
 * 
