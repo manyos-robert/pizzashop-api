@@ -17,7 +17,7 @@ For each entry we'll provide:
 
 ## Place an order
 
-As a customer I want to place an order for one more pizzas. For each pizza I'll want to specify the pizza, the quantity and any extras. The total price should be calculated automatically.
+As a customer I want to place an order for one more pizzas. For each pizza I'll want to specify the pizza, the quantity and any extras. The total price should be calculated automatically. I also want to define my contact and delivery details.
 
 ## Get all orders
 
