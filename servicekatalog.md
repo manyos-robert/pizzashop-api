@@ -30,3 +30,9 @@ Folgende Struktur wäre denkbar:
   }
 ]
 ```
+
+Zusätzliches Features:
+
+Man kann Produkte in Gruppen legen. Bsp: Pizzen, Salate, Getränke
+
+Es gibt eine Liste von Extras die je Produktgruppe definiert sind.
