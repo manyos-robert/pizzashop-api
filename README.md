@@ -3,7 +3,7 @@ API backend for a pizzashop as a Javascript starter
 
 This repository shall create the backend of a pizza shop as a shared javascript learning tutorial.
 
-#Requirements
+# Requirements
 
 Basic functionality the API needs to provide:
 
