@@ -1,0 +1,16 @@
+{
+  "id": "jfdjd",
+  "status": "new",
+  "deliverAddress": "Max Muster, Musterweg 12, 81476 München",
+  "phoneNumer": "0172-12354233",
+  "items": [
+    {
+      "catalogId": "pizSal",
+      "quantity": 2,
+      "extras": "No onions",
+      "size": "single",
+      "price": 7.9
+    }
+  ],
+  "totalPrice": 15.8
+}
