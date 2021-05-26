@@ -6,9 +6,9 @@
   "items": [
     {
       "catalogId": "pizSal",
+      "variant": "single",
       "quantity": 2,
       "extras": "No onions",
-      "size": "single",
       "price": 7.9
     }
   ],
